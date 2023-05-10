@@ -1,0 +1,17 @@
+{
+    "name": "nda/lampart-intern",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "NDA",
+            "email": "hv.nguyenducanh@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
