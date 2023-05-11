@@ -6,7 +6,7 @@
   *DB_DSN = mysql:host=127.0.0.1;port=4306;dbname=lampart    
   DB_USER = root    
   DB_PASSWORD =*    
-  _chỉnh port tương ứng với port trong Xampp_    
+  chỉnh port tương ứng với port trong Xampp    
 2. Run <strong>Composer install</strong>    
 3. Tạo database lamppart trong phpmyadmin    
 4. Run <strong>php migrations.php</strong> trong thư mục gốc để tạo bảng category     
