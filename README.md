@@ -3,7 +3,7 @@
 
 1. Đổi tên file .env.example thành .env    
   **copy vô .env**       
-  *DB_DSN = mysql:host=127.0.0.1;port=4306;dbname=lampart    
+  *DB_DSN = mysql:host=127.0.0.1;port=3306;dbname=lampart    
   DB_USER = root    
   DB_PASSWORD =*    
   chỉnh port tương ứng với port trong Xampp    
